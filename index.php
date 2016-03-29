@@ -18,7 +18,7 @@
 
     <div class="loginColumns animated fadeInDown">
         <div class="row">
-
+		
             <div class="col-md-7">
                 <h2 class="font-bold" style="color: #fff; font-size: 40px; line-height: 70px;">Asif Saha Boutique</h2>
                 <p style="color: #fff; font-size: 30px;">Warehouse &amp; Showroom management</p>
